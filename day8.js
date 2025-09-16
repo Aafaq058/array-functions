@@ -11,6 +11,7 @@ function addNumber(arr, num) {
   let newArr = [];
   for (let i = 0; i < getLength(arr); i++) {
     newArr[i] = arr[i];
+    kjh 
   }
 
   //push
